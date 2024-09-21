@@ -5,8 +5,6 @@ By leveraging Arduino Cloud, this system offers a convenient platform for users 
 
 The project demonstrates how IoT technology, combined with cloud services, can be used to create a robust and scalable weather monitoring solution. It showcases the seamless integration of hardware components, wireless communication, and cloud-based data management, making it ideal for both personal and industrial applications where real-time weather updates are crucial.
 
-ArduinoCloud Output:
-
-Daseboard:
+ArduinoCloud Daseboard:
 
 ![Image2](https://github.com/user-attachments/assets/77eb18c3-f1cd-4033-8a27-f0b0d18d1dad)
