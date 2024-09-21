@@ -4,3 +4,7 @@ The IoT Weather Reporting System is designed to capture and monitor environmenta
 By leveraging Arduino Cloud, this system offers a convenient platform for users to access live weather data remotely. The data is visualized on customizable dashboards, making it easy to monitor environmental conditions from any internet-enabled device. Users can create alerts or automate certain actions based on specific weather conditions, further enhancing the functionality of the system.
 
 The project demonstrates how IoT technology, combined with cloud services, can be used to create a robust and scalable weather monitoring solution. It showcases the seamless integration of hardware components, wireless communication, and cloud-based data management, making it ideal for both personal and industrial applications where real-time weather updates are crucial.
+
+ArduinoCloud Output:
+![Image1](https://github.com/user-attachments/assets/357c9b1a-444b-4d75-9579-9bc8552f0c7f)
+![Image2](https://github.com/user-attachments/assets/0becb363-ae9d-42a4-b0ff-7f1b0f9c1a64)
