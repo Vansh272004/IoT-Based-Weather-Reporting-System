@@ -9,4 +9,4 @@ ArduinoCloud Output:
 
 Daseboard:
 
-![Image2](https://github.com/user-attachments/assets/0becb363-ae9d-42a4-b0ff-7f1b0f9c1a64)
+![Image2](https://github.com/user-attachments/assets/77eb18c3-f1cd-4033-8a27-f0b0d18d1dad)
